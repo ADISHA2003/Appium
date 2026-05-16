@@ -125,11 +125,4 @@ set ANDROID_HOME=...
 ```text
 ADB → Set ENV → Start Appium → Connect Device → Run Session
 ```
-
----
-
-# 🧠 Interview Ready Summary
-
-> To run Appium on a real device, we connect via ADB, configure ANDROID_HOME, start the Appium server, and use UiAutomator2 with desired capabilities including UDID and app details.
-
 ---
